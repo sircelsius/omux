@@ -1,4 +1,4 @@
-package opentracing_mux
+package omux
 
 import (
 	"net/http"

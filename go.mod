@@ -1,4 +1,4 @@
-module github.com/sircelsius/opentracing-mux
+module github.com/sircelsius/omux
 
 go 1.12
 

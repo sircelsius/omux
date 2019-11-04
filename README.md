@@ -1,4 +1,4 @@
-# opentracing-mux
+# omux
 
 A simple opentracing middleware for gorilla/mux.
 
